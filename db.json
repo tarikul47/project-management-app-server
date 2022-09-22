@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "email": "tarikul@gmail.com",
+      "password": "$2a$10$IpM8Th4XIEftDEHt0YLi0O7OUIKie8pox9q7PSyzAGrj1f6UxCxVm",
+      "name": "Tarikul",
+      "id": 1
+    },
+    {
+      "email": "raju@gmail.com",
+      "password": "$2a$10$tL.JSrJKk4uFvtYU7UU9uejyCPvItlh.8JTH/nbmLvnKWKzRt/aKm",
+      "name": "Raju",
+      "id": 2
+    },
+    {
+      "email": "nazmun@gmail.com",
+      "password": "$2a$10$pWxkQV9AYTS.ErtireB/mOlX2xdrJfzX5JBKXQvDorFBy/ZBXIOaG",
+      "name": "Nazmun",
+      "id": 3
+    },
+    {
+      "email": "abdur@gmail.com",
+      "password": "$2a$10$dwGqF2Nacg6kqWsfMkyrI.nfN8EYuF3fpJp7rX.h2VbRG8uI6zKv6",
+      "name": "Abdur",
+      "id": 4
+    },
+    {
+      "email": "rafi@gmail.com",
+      "password": "$2a$10$GAYWYPsMfG5Ku5yRvahSk.jcXWLUwBnQs7VpbBz2B7OujyjjK3aby",
+      "name": "Rafi",
+      "id": 5
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$yISHFERFL.zAJLS3Pp8gOet9S1H40QTfzIagHzO7S1t4.wEfYq0XO",
+      "name": "Test1",
+      "id": 6
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$mDX6bToZGraVTxun5y5PYObfVA5V2OkTjtBOFa3T/oOFRiDchb3.y",
+      "name": "Test2",
+      "id": 7
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$nJtqJ/PaSF72yjLSfZ4AOeZeEWFZcyotkofDgWBM7NOZfWhujnf7i",
+      "name": "Test3",
+      "id": 8
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$H/BSBT73WJeBr2V2ZoZrp.PjAbBmknXCWZXyZC.r.GGJ3yyi4fbU2",
+      "name": "Test4",
+      "id": 9
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$n5.Ga8fBVwE/EDn3R17t6.fzM72ofDdy.gyWM7iMVYMbq9Dz7om56",
+      "name": "Test5",
+      "id": 10
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Design",
+      "created_at": "",
+      "description": "",
+      "color": "",
+      "members": [
+        1
+      ]
+    }
+  ],
+  "project": [
+    {
+      "id": 1,
+      "name": "This is the title of Project",
+      "color": "",
+      "team": "",
+      "created_at": "",
+      "author": ""
+    }
+  ]
+}
