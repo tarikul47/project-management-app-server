@@ -46,13 +46,13 @@ app.db = router.db;
 
 app.use(middlewares);
 
-const rules = auth.rewriter({
-  users: 640,
-  conversations: 660,
-  messages: 660,
-});
+// const rules = auth.rewriter({
+//   users: 640,
+//   teams: 660,
+//   project: 660,
+// });
 
-app.use(rules);
+//app.use(rules);
 app.use(auth);
 app.use(router);
 
